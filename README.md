@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+**Live Demo:** [**staff-attendance-app.vercel.app**](https://staff-attendance-app.vercel.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
